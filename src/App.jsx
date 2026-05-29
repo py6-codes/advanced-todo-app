@@ -3,7 +3,7 @@ import { useEffect, useState } from "react"
 import Header from "./components/Header"
 import Stats from "./components/Stats"
 import TodoForm from "./components/TodoForm"
-import FilterBar from "./components/FilterBar"
+import Filterbar from "./components/Filterbar"
 import TodoList from "./components/TodoList"
 
 function App() {

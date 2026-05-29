@@ -1,4 +1,4 @@
-function FilterBar({
+function Filterbar({
 
   filterStatus,
   setFilterStatus
