@@ -30,4 +30,4 @@ function Filterbar({
   )
 }
 
-export default FilterBar
+export default Filterbar
