@@ -1,10 +1,10 @@
 import { useEffect, useState } from "react"
 
-import Header from "./components/Header"
-import Stats from "./components/Stats"
-import TodoForm from "./components/TodoForm"
-import FilterBar from "./components/FilterBar"
-import TodoList from "./components/TodoList"
+import Header from "./Components/Header"
+import Stats from "./Components/Stats"
+import TodoForm from "./Components/TodoForm"
+import FilterBar from "./Components/FilterBar"
+import TodoList from "./Components/TodoList"
 
 function App() {
 
