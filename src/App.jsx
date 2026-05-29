@@ -66,7 +66,7 @@ function App() {
         setEditTodo={setEditTodo}
       />
 
-      <FilterBar
+      <Filterbar
         filterStatus={filterStatus}
         setFilterStatus={setFilterStatus}
       />
